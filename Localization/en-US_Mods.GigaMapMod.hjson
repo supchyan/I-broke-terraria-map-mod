@@ -1,0 +1,11 @@
+Keybinds: {
+	resetCamera.DisplayName: reset Camera
+	FocusOnPlayer.DisplayName: Focus On Player
+	OpenMap.DisplayName: Open Map
+}
+
+Projectiles: {
+	MapCursor.DisplayName: Map Cursor
+	MapMarkers.DisplayName: Map Markers
+	NPCMarkers.DisplayName: N P C Markers
+}
